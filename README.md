@@ -118,18 +118,27 @@ Together, Similarweb and Ahrefs represent a powerhouse combination for brands ai
 ### **Similarweb Usage Guide**
 
 1. **Check Competitor Traffic**
-    - Pop in any website URL (like your competitor's).
+
+ <a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1P3wuF2S4e0Z1Ekb4zIct4nCy456-e9qR"  alt="Similarweb Dashboard">
+</a>
+
+    - Pop in any website URL in search bar.
     - Instantly see their total visits, bounce rate, visit duration, and more.
     - Great to know who’s getting the eyeballs—and how.
+
 2. **Explore Traffic Sources**
     - See where their traffic is coming from: direct, search, social, referrals, etc.
-    - Helps you find out which channels are working for them (so you can steal the strategy 😏).
+    - Helps you find out which channels are working for them (so you can steal the strategy).
+    
 3. **Audience Interests & Geo Insights**
     - Understand their audience’s age, gender, and location.
     - Target your ads or content like a sniper—not a spray-and-pray marketer.
+      
 4. **Referral Sites & Partnerships**
     - Find sites that send them traffic—these could be influencers, blogs, or affiliates.
     - Build a similar backlink or partnership strategy.
+      
 5. **Industry & Category Benchmarks**
     - Compare performance across industries.
     - Want to see if you’re above or below average? This shows you.
@@ -206,6 +215,10 @@ Use **Similarweb** for understanding overall traffic trends and **Ahrefs** for r
 | oaicite:18 | oaicite:19                                                         Average 7 hours 15 minutes ([myaskai.com](https://myaskai.com/saas-customer-support-directory/ahrefs)) | oaicite:20                                                                                                                                         **Live Chat Hours**         Not specifiedentReference[oaicite:21]{index=21} |
 
 **Similarweb** offers multiple support channels, including **phone**, **email**, and **live chat**, catering to a broad range of user preferences. Their support is accessible via their Help Center and [Contact Page](https://www.similarweb.com/corp/contact-us/).
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1G6C7ZLNtZVjrRepcshucaxoaoSieTtZO"  alt="Similarweb Contact Page">
+</a>
 
 **Ahrefs** provides support through **email** and **live chat** (available 24/5), with a strong emphasis on their comprehensive [Help Center](https://help.ahrefs.com/en/) and API documentation. While they don't offer phone support, their response times are generally prompt.
 
